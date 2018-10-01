@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Add a file!
 Append a new character!
-It is simple & quick!
+It is simple AND quick!
