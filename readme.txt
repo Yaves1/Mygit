@@ -5,3 +5,4 @@ Git tracks changes of files.
 Add a file!
 Append a new character!
 It is simple AND quick!
+Add a new fast!
